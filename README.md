@@ -1,2 +1,2 @@
 # is-640-nn
-Project 1,Implementing Back Propagation algorithm
+project 1, backpropagation algorithm
